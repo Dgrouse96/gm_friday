@@ -1,0 +1,26 @@
+Info
+{
+	"NextInternalID" "4"
+}
+Maps
+{
+	VMF
+	{
+		"Name" "FridayHead"
+		"File" "gm_friday.vmf"
+		"InternalID" "1"
+		"TopLevel" "1"
+	}
+	VMF
+	{
+		"Name" "Dgrouse"
+		"File" "dgrouse.vmf"
+		"InternalID" "2"
+	}
+	VMF
+	{
+		"Name" "Squiz"
+		"File" "squiz.vmf"
+		"InternalID" "3"
+	}
+}
