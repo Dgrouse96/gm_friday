@@ -1,0 +1,28 @@
+
+
+
+materialPath: E:\Steam\steamapps\steamapps\common\Counter-Strike Source\cstrike\materials
+Could not locate 'GameData' key in e:\steam\steamapps\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+material "skybox/rt" not found.
+Can't load skybox file skybox/ to build the default cubemap!
+Can't load skybox file skybox/ to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+
+
+
+8 threads
+reading e:\git\gm_friday\source\gm_friday.bsp
+Error opening e:\git\gm_friday\source\gm_friday.bsp
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading e:\git\gm_friday\source\gm_friday.bsp
+Error opening e:\git\gm_friday\source\gm_friday.bsp
